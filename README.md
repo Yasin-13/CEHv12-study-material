@@ -1,0 +1,14 @@
+Modules
+
+Footprinting and Reconnaissance: Gathering information about a target system or network.
+Scanning Networks: Identifying live hosts, open ports, and services running on networked systems.
+Enumeration: Extracting information about users and groups from networked systems.
+Vulnerability Analysis: Identifying potential vulnerabilities in systems and networks.
+System Hacking: Exploiting vulnerabilities to gain unauthorized access to systems.
+Malware Threats: Understanding different types of malware and their functionalities.
+Sniffing: Capturing and analyzing network traffic for information gathering purposes.
+Social Engineering: Manipulating people into divulging confidential information.
+Denial of Service (DoS) Attacks: Disrupting the normal functioning of systems or networks.
+Session Hijacking: Taking control of an ongoing session between a user and a system.
+Evading IDS, Firewalls, and Honeypots: Techniques for bypassing security measures.
+Hacking Web Servers, Web Applications, and Wireless Networks: Exploiting vulnerabilities in web servers, applications, and wireless networks.
